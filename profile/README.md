@@ -1,4 +1,4 @@
-# [Purdon Lab](https://purdonlab.mgh.harvard.edu)
+# [Purdon Lab](https://purdonlab.stanford.edu/)
 
 ## Contents
 - [Libraries](#libraries)
